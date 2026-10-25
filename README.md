@@ -16,9 +16,35 @@ Organizador inteligente de marcadores con extensión de navegador, aplicación d
 
 ## Vista del proyecto
 
-La imagen es una maqueta temprana. La interfaz del producto sigue evolucionando.
+Capturas de la versión en desarrollo, realizadas en octubre de 2026 con marcadores de demostración. No contienen la colección personal del autor.
 
-<img src="media/banshii-concepto.png" width="250" alt="Maqueta inicial de Banshii" />
+### Inicio de Banshii: organización y acceso a marcadores
+
+<img src="media/banshii-inicio-2026.png" width="760" alt="Inicio de Banshii: organización y acceso a marcadores" />
+
+### Búsqueda de marcadores por lo que recuerdas
+
+<img src="media/banshii-busqueda-2026.png" width="760" alt="Búsqueda de marcadores por lo que recuerdas" />
+
+### Interfaz para hacer preguntas sobre los marcadores
+
+<img src="media/banshii-preguntas-2026.png" width="760" alt="Interfaz para hacer preguntas sobre los marcadores" />
+
+### Espacios de trabajo para organizar enlaces
+
+<img src="media/banshii-espacios-2026.png" width="760" alt="Espacios de trabajo para organizar enlaces" />
+
+### Vista de limpieza de marcadores
+
+<img src="media/banshii-limpieza-2026.png" width="760" alt="Vista de limpieza de marcadores" />
+
+### Comparación de propuestas de organización
+
+<img src="media/banshii-comparar-2026.png" width="760" alt="Comparación de propuestas de organización" />
+
+### Detección de enlaces duplicados
+
+<img src="media/banshii-duplicados-2026.png" width="760" alt="Detección de enlaces duplicados" />
 
 ## Contexto
 
